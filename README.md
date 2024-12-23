@@ -2,7 +2,14 @@
 **Nama:** Rizki Ramadani  
 **NIM:** 23.83.1015
 **Kelas:** 23TK02  
-**Mata Kuliah:** OS SERVER dan SISTEM ADMIN 
+**Mata Kuliah:** OS SERVER dan SISTEM ADMIN
+
+## Spesifikasi Server
+- Jenis Server: Virtual Private Server (VPS)2
+- CPU: 4 Core
+- RAM: 8 GB
+- Storage: SSD 80 GB
+- Sistem Operasi: Ubuntu Server 24.04
 
 ## Daftar Isi
 1. [Instalasi OPEN SSH SERVER](#1-instalasi-open-ssh-server)
