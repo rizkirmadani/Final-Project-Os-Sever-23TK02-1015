@@ -96,7 +96,7 @@ sudo systemctl start apache2
 ```bash
 ip a
 ```
-**Langkah 5:** Buka pada browser google chrome pada windows dan ketikkan ip addres tadi “192.168.1.13”
+**Langkah 5:** Buka pada browser google chrome pada windows dan ketikkan ip addres tadi “192.168.100.94”
 
 
 contoh ip saya : 192.168.100.94
@@ -121,7 +121,7 @@ sudo systemctl start apache2
 ```
 **Langkah 4:** Restart ulang layanan
 ```bash
-ip a
+sudo systemctl restart apache2
 ```
 **Langkah 5:** CEK KONFIGURASI Buka pada browser windows gogole chrome dan ketikkan <ip address ubuntu server/phpmyadmin/> cth:192.168.1.13/phpmyadmin/
 ![image](https://github.com/user-attachments/assets/37cd45b6-0272-4c70-a9cb-11da59038098)
